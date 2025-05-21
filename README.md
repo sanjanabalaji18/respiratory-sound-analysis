@@ -1,12 +1,12 @@
 # respiratory-sound-analysis
 readme_content = """
-# 🩺 Respiratory Sound Analysis
+#  Respiratory Sound Analysis
 
 This project focuses on analyzing respiratory sound recordings to classify various lung conditions like asthma, COPD, and heart failure. We use MFCC features extracted from audio files and apply machine learning for classification.
 
 ...
 
-## 🧠 License
+## License
 
 This project is intended for educational and research purposes only.
 """
